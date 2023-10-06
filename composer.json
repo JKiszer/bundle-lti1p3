@@ -9,7 +9,7 @@
         "ext-json": "*",
         "oat-sa/lib-lti1p3-core": "^6.0",
         "psr/log": "^1 || ^2 || ^3",
-        "symfony/framework-bundle": "^4.4 || ^5.1",
+        "symfony/framework-bundle": "*",
         "symfony/psr-http-message-bridge": "^2.0",
         "symfony/security-bundle": "^4.4 || ^5.1",
         "symfony/security-core": "^4.4|^5.4",
